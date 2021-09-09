@@ -18,18 +18,25 @@ namespace EProducer
                                      autoDelete: false,
                                      arguments: null);
 
-                string message = "Hello World!";
-                var body = Encoding.UTF8.GetBytes(message);
+                int count = 0;
 
-                channel.BasicPublish(exchange: "minhaNovaExchange",
-                                     routingKey: "minhaSegundaKey",
-                                     basicProperties: null,
-                                     body: body);
-                Console.WriteLine(" [x] Sent {0}", message);
+                while (true)
+                {
+                    string message = $"{count ++} Hello World!";
+                    var body = Encoding.UTF8.GetBytes(message);
+
+                    channel.BasicPublish(exchange: "minhaNovaExchange",
+                                         routingKey: "minhaSegundaKey",
+                                         basicProperties: null,
+                                         body: body);
+                    Console.WriteLine(" [x] Sent {0}", message);
+                    System.Threading.Thread.Sleep(200);
+
+                }
+             
             }
 
-            Console.WriteLine(" Press [enter] to exit.");
-            Console.ReadLine();
+           
         }
     }
 }
