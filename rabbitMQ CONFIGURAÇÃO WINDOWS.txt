@@ -1,0 +1,12 @@
+PASSOS PARA USAR RABBITMQ E CONFIGURAR NO WINDOWS
+
+
+1-> FAÇA DOWNLOAD DO ERLANG https://www.erlang.org/downloads
+2->FAÇA DOWNLOAD DO RABBITMQ https://www.rabbitmq.com/install-windows.html
+3->PESQUISE NO GOOGLE POR RABBITMQ ENABLE MANAGEMENT, entre no primeiro site e copie o código rabbitmq-plugins enable rabbitmq_management, com esse codigo abra o caminho da instalação do rabbitmq na sua maquina C:\Program Files\RabbitMQ Server\rabbitmq_server-3.9.5\sbin, depois abra o prompt de comando digite cd C:\Program Files\RabbitMQ Server\rabbitmq_server-3.9.5\sbin e depois execute o código anterior rabbitmq-plugins enable rabbitmq_management.
+
+4-> Feito isso digite no brownser http://127.0.0.1:15672 
+e logue com a senha guest e password guest
+
+
+SUCESSO!!!!
