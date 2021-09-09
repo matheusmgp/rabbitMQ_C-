@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wj+j9SZC3/PfKuuCZYGXV04IOo4trpeVlGSC3hUDhXG5zITzZqSprEU76FVWIPqHc2M8sn0FMd7GY8F5JnyT6w==",
+  "success": true,
+  "projectFilePath": "E:\\projetos\\.net Core\\rabbitMQ\\EProducer\\EProducer\\EProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matheus\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\matheus\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\matheus\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

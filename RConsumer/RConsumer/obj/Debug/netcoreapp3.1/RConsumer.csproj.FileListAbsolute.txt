@@ -1,0 +1,16 @@
+E:\projetos\.net Core\rabbitMQ\RConsumer\RConsumer\obj\Debug\netcoreapp3.1\RConsumer.csproj.AssemblyReference.cache
+E:\projetos\.net Core\rabbitMQ\RConsumer\RConsumer\obj\Debug\netcoreapp3.1\RConsumer.AssemblyInfoInputs.cache
+E:\projetos\.net Core\rabbitMQ\RConsumer\RConsumer\obj\Debug\netcoreapp3.1\RConsumer.AssemblyInfo.cs
+E:\projetos\.net Core\rabbitMQ\RConsumer\RConsumer\obj\Debug\netcoreapp3.1\RConsumer.csproj.CoreCompileInputs.cache
+E:\projetos\.net Core\rabbitMQ\RConsumer\RConsumer\bin\Debug\netcoreapp3.1\RConsumer.exe
+E:\projetos\.net Core\rabbitMQ\RConsumer\RConsumer\bin\Debug\netcoreapp3.1\RConsumer.deps.json
+E:\projetos\.net Core\rabbitMQ\RConsumer\RConsumer\bin\Debug\netcoreapp3.1\RConsumer.runtimeconfig.json
+E:\projetos\.net Core\rabbitMQ\RConsumer\RConsumer\bin\Debug\netcoreapp3.1\RConsumer.runtimeconfig.dev.json
+E:\projetos\.net Core\rabbitMQ\RConsumer\RConsumer\bin\Debug\netcoreapp3.1\RConsumer.dll
+E:\projetos\.net Core\rabbitMQ\RConsumer\RConsumer\bin\Debug\netcoreapp3.1\RConsumer.pdb
+E:\projetos\.net Core\rabbitMQ\RConsumer\RConsumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\projetos\.net Core\rabbitMQ\RConsumer\RConsumer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\projetos\.net Core\rabbitMQ\RConsumer\RConsumer\obj\Debug\netcoreapp3.1\RConsumer.csproj.CopyComplete
+E:\projetos\.net Core\rabbitMQ\RConsumer\RConsumer\obj\Debug\netcoreapp3.1\RConsumer.dll
+E:\projetos\.net Core\rabbitMQ\RConsumer\RConsumer\obj\Debug\netcoreapp3.1\RConsumer.pdb
+E:\projetos\.net Core\rabbitMQ\RConsumer\RConsumer\obj\Debug\netcoreapp3.1\RConsumer.genruntimeconfig.cache

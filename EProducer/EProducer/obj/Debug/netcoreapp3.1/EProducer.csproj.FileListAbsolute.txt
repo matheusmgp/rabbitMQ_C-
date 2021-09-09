@@ -1,0 +1,16 @@
+E:\projetos\.net Core\rabbitMQ\EProducer\EProducer\bin\Debug\netcoreapp3.1\EProducer.exe
+E:\projetos\.net Core\rabbitMQ\EProducer\EProducer\bin\Debug\netcoreapp3.1\EProducer.deps.json
+E:\projetos\.net Core\rabbitMQ\EProducer\EProducer\bin\Debug\netcoreapp3.1\EProducer.runtimeconfig.json
+E:\projetos\.net Core\rabbitMQ\EProducer\EProducer\bin\Debug\netcoreapp3.1\EProducer.runtimeconfig.dev.json
+E:\projetos\.net Core\rabbitMQ\EProducer\EProducer\bin\Debug\netcoreapp3.1\EProducer.dll
+E:\projetos\.net Core\rabbitMQ\EProducer\EProducer\bin\Debug\netcoreapp3.1\EProducer.pdb
+E:\projetos\.net Core\rabbitMQ\EProducer\EProducer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\projetos\.net Core\rabbitMQ\EProducer\EProducer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\projetos\.net Core\rabbitMQ\EProducer\EProducer\obj\Debug\netcoreapp3.1\EProducer.csproj.AssemblyReference.cache
+E:\projetos\.net Core\rabbitMQ\EProducer\EProducer\obj\Debug\netcoreapp3.1\EProducer.AssemblyInfoInputs.cache
+E:\projetos\.net Core\rabbitMQ\EProducer\EProducer\obj\Debug\netcoreapp3.1\EProducer.AssemblyInfo.cs
+E:\projetos\.net Core\rabbitMQ\EProducer\EProducer\obj\Debug\netcoreapp3.1\EProducer.csproj.CoreCompileInputs.cache
+E:\projetos\.net Core\rabbitMQ\EProducer\EProducer\obj\Debug\netcoreapp3.1\EProducer.csproj.CopyComplete
+E:\projetos\.net Core\rabbitMQ\EProducer\EProducer\obj\Debug\netcoreapp3.1\EProducer.dll
+E:\projetos\.net Core\rabbitMQ\EProducer\EProducer\obj\Debug\netcoreapp3.1\EProducer.pdb
+E:\projetos\.net Core\rabbitMQ\EProducer\EProducer\obj\Debug\netcoreapp3.1\EProducer.genruntimeconfig.cache
